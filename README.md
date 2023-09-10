@@ -17,7 +17,7 @@
 [![VK](https://img.shields.io/badge/Vkontakte-0077FF.svg?logo=Vk&logoColor=white)](https://vk.com/id345222480)
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9.svg?logo=telegram&logoColor=white)](https://t.me/maratreason)
 
-+7 930 276 0704
+📞  ## +7 930 276 0704
 
 
 # 💻 Tech Stack:
