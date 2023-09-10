@@ -15,7 +15,7 @@
 ## 🌐 Мои контакты:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004439461776)
 [![VK](https://img.shields.io/badge/Vkontakte-%231877F2.svg?logo=Vk&logoColor=white)](https://vk.com/id345222480)
-[![Telegram](https://img.shields.io/badge/Vkontakte-%231877F2.svg?logo=Vk&logoColor=white)](https://t.me/maratreason)
+[![Telegram](https://img.shields.io/badge/-229ED9.svg?logo=telegram&logoColor=white)](https://t.me/maratreason)
 
 +7 930 276 0704
 
